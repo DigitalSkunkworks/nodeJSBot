@@ -7,7 +7,7 @@
   "env": {
     "APIAI_ACCESS_TOKEN": {
       "description": "Client access token for Api.ai",
-      "value": "725e3e5c57f94dfebdfa12d81527fa38"
+      "value": ""
     },
     "APIAI_LANG": {
       "description": "Agent language",
@@ -16,11 +16,11 @@
     },
     "APP_ID": {
       "description": "Microsoft App ID",
-      "value": "355a4537-d750-4064-a4b4-45416960b2e5"
+      "value": ""
     },
     "APP_SECRET": {
       "description": "Microsoft App Password",
-      "value": "iWvLUFBSdHbRUE9xAfn9tf0"
+      "value": ""
     }
   },
   "engines": {
